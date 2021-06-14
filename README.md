@@ -2,6 +2,9 @@
 
 A simple Flutter Front end that mimic Banking App.
 
+## ScreenShot
+![ScreenShot](https://github.com/shittu33/ResponsiveNewsApp/blob/master/screen.PNG?raw=true)
+
 ## Details
 
 **Features:**
