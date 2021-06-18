@@ -3,13 +3,33 @@
 A simple Flutter Front end that mimic the Operations of a Banking App.
 
 ## ScreenShot
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/login.png?raw=true) ![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/signUp.png?raw=true)
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/admin_transactions.png?raw=true)
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/drawer.png?raw=true)
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/deposit.png?raw=true)
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/deposit.png?raw=true)
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/deposit.png?raw=true)
-![ScreenShot](https://github.com/shittu33/Banking_app/blob/master/screens/deposit.png?raw=true)
+<img si></img>
+
+<div>
+<h6>Login Page</h6>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/login.png">
+</div>
+
+<div>
+<h6>Login Page</h6>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/signUp.png">
+</div>
+
+<div>
+<h6>Login Page</h6>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_transactions.png">
+</div>
+
+<div>
+<h6>Login Page</h6>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/drawer.png">
+</div>
+
+<div>
+<h6>Login Page</h6>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/ ">
+</div>
+
 
 ## Details
 
