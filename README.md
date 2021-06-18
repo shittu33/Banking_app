@@ -17,9 +17,9 @@ A simple Flutter Front end that mimic the Operations of a Banking App.
 <div>
 <h6>Admin Dashboard<h6/>
 <img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_transactions.png"> <img width="3px"/>
-<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_addUser.png"> <img width="3px"/>
 <img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_profile.png"> <img width="3px"/>
 <img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/users.png"> <img width="3px"/>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_addUser.png"> <img width="3px"/>
 <img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/deposit.png"> <img width="3px"/>
 </div>
 
