@@ -190,7 +190,7 @@ class _ProfileState extends State<Profile> {
                     Icon(Icons.transfer_within_a_station, color: TPrimaryColor),
                 label: isAdmin ? "Transactions" : "Transfer"),
             BottomNavigationBarItem(
-                icon: Icon(Icons.attach_money, color: TPrimaryColor),
+                icon: Icon(isAdmin ?Icons.group_rounded:Icons.attach_money, color: TPrimaryColor),
                 label: isAdmin ? "Users" : "Deposit"),
             BottomNavigationBarItem(
                 icon:

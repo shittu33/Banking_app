@@ -16,7 +16,7 @@
 // const _AUTH_URL = "/auth";
 // const _ACCOUNTS_URL = "/accounts";
 
-const ROOT_URL = "https://192.168.43.107/newApi/public";
+const ROOT_URL = "https://192.168.43.108/newApi/public";
 // const ROOT_URL = "https://127.0.0.1/newApi/public";
 const LOGIN_ENDPOINT = "/login"; //POST +
 const SIGN_UP_ENDPOINT = "/signup"; //POST +
