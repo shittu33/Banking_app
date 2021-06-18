@@ -5,12 +5,12 @@ A simple Flutter Front end that mimic the Operations of a Banking App.
 ## ScreenShot
 <img si></img>
 
-<div style="display:flex;flex-direction: row;">
-<h6>Login Page</h6>
-<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/login.jpg"> <img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/signUp.png">
-<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_transactions.png">
-<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/drawer.png">
-<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/ ">
+<div>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/login.jpg"> <img width="3px"/>   
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/signUp.png"> <img width="3px"/>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/admin_transactions.png"> <img width="3px"/>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/drawer.png"> <img width="3px"/>
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/ "> <img width="3px"/>
 
 </div> 
 
