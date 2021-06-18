@@ -7,7 +7,7 @@ A simple Flutter Front end that mimic the Operations of a Banking App.
 
 <div>
 <h6>Login Page</h6>
-<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/login.png">
+<img width="164" alt="preview" src="https://github.com/shittu33/Banking_app/blob/master/screens/login.jpg">
 </div>
 
 <div>
