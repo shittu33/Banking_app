@@ -36,6 +36,6 @@ A simple Flutter Front end that mimic the Operations of a Banking App.
 
 ## Backed & API
 
-* The source code for the Api server can be found  [here](https://github.com/shittu33/HerokuNewsApiServer)
+* The source code for the Api server can be found  [here](https://github.com/shittu33/banking_app_backend)
 * The backend is built with PHP
 * The Api use Slim Framework 
